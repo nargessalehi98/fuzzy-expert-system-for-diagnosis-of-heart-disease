@@ -1,1 +1,1 @@
-# fuzzy-expert-system-for-diagnosis-of-heart-disease
+# fuzzy expert system for diagnosis of heart disease
